@@ -2,7 +2,7 @@
 🎓 I’m currently pursuing a degree in Computer Engineering at Texas A&M University.<br>🛠️ I’m currently working on electronics and embedded systems projects involving PCBs, microcontrollers, and automation<br>🌱 I’m currently learning about semiconductor manufacturing, PCB design, and embedded systems engineering.<br>💡 I’m interested in circuitry, electronics, and the intersection of hardware and software.<br>🎥 In my free time, I enjoy filming and editing videos, taking photos, and capturing moments from my daily life.<br>⚡ Fun fact: I’m building a social media brand from scratch focused on design, wellness, and productivity.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p><a target="_blank" href="https://www.linkedin.com/in/siddesh-selvam" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/siddesh.sel" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
